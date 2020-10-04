@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"virtuallip42052c24": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

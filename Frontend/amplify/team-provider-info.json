@@ -1,0 +1,20 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-virtuallip-dev-02556-authRole",
+            "UnauthRoleArn": "arn:aws:iam::242154318329:role/amplify-virtuallip-dev-02556-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::242154318329:role/amplify-virtuallip-dev-02556-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-virtuallip-dev-02556-deployment",
+            "UnauthRoleName": "amplify-virtuallip-dev-02556-unauthRole",
+            "StackName": "amplify-virtuallip-dev-02556",
+            "StackId": "arn:aws:cloudformation:us-east-1:242154318329:stack/amplify-virtuallip-dev-02556/141c86e0-a680-11ea-8f84-12301089d57f",
+            "AmplifyAppId": "d2rhc6959x82ms"
+        },
+        "categories": {
+            "auth": {
+                "virtuallip42052c24": {}
+            }
+        }
+    }
+}
